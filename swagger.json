@@ -1,13 +1,13 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "Binar Challenge Chapter 8",
+    "title": "Binar Challenge Chapter 8 Kelompok 2",
     "version": "1.0.0",
     "contact": {}
   },
   "servers": [
     {
-      "url": "localhost"
+      "url": "http://localhost:4001"
     }
   ],
   "paths": {
